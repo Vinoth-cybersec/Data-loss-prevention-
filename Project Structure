@@ -1,0 +1,6 @@
+/dlp-system
+│
+├── monitor.py                 # File monitoring script
+├── config.py                  # Configuration settings
+├── alerts.py                  # Alerting system
+└── sensitive_keywords.txt     # List of sensitive keywords
